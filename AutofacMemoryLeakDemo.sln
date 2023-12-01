@@ -4,7 +4,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutofacAspNetCore", "Autofa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MicrosoftAspNetCore", "MicrosoftAspNetCore\MicrosoftAspNetCore.csproj", "{9B4EBA7F-AD05-4B9F-8065-A69FD84F2547}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommonTests", "..\AutofacMemoryLeakSpike\CommonTests\CommonTests.csproj", "{2620067F-BF9B-48C4-BF68-24E3B5344196}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommonTests", "CommonTests\CommonTests.csproj", "{2620067F-BF9B-48C4-BF68-24E3B5344196}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common", "Common\Common.csproj", "{624E9AFB-F6BC-4C81-9EEB-A13E27D0ADB3}"
 EndProject
